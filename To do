@@ -1,5 +1,6 @@
-1) Fix actions not actually applying to player
-2) Add persistence to effects
-3) Add addiction affects
-4) Add persistence to addiction
-5) Add biome relative effects
+* Fix actions not actually applying to player
+* Make effects cancel out their opposite
+* Add persistence to effects
+* Add addiction affects
+* Add persistence to addiction
+* Add biome relative effects
